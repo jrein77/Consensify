@@ -1,0 +1,22 @@
+JANE DOE
+San Francisco, CA | jane.doe@example.com
+
+PROFESSIONAL SUMMARY
+Senior backend engineer with 9+ years of experience building distributed systems.
+
+WORK EXPERIENCE
+Staff Software Engineer, Stripe                         Mar 2021 - Present
+- Led payments ledger rewrite serving 40k requests/sec.
+Senior Software Engineer, Airbnb                        Jun 2017 - Feb 2021
+- Owned the pricing service.
+Software Engineer, Yelp                                 Jul 2015 - May 2017
+
+EDUCATION
+Master of Science in Computer Science, Stanford University, 2015
+
+TECHNICAL SKILLS
+Go, Python, Kubernetes, PostgreSQL, Kafka, Terraform, gRPC, AWS
+
+CERTIFICATIONS
+AWS Certified Solutions Architect - Professional
+Certified Kubernetes Administrator (CKA)

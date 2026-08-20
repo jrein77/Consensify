@@ -1,0 +1,23 @@
+SENIOR BACKEND ENGINEER
+Payments Platform — Full time, Hybrid (San Francisco)
+
+ABOUT THE ROLE
+We are hiring a Senior Backend Engineer to join the Payments Platform team. You
+will own services that move money for millions of customers, with a strong bias
+toward correctness, observability, and operational excellence.
+
+WHAT YOU'LL DO
+- Design, build, and operate high-throughput distributed services.
+- Lead the technical direction of a major subsystem end to end.
+- Partner with Risk, Compliance, and Product on ledger correctness.
+- Mentor engineers and raise the bar in design and code review.
+
+WHAT WE'RE LOOKING FOR
+- 6+ years building backend systems in production.
+- Depth in at least one of Go, Java, or Python.
+- Experience with relational databases and event streaming.
+- Track record operating services with meaningful uptime requirements.
+
+NICE TO HAVE
+- Payments, ledger, or financial systems background.
+- Kubernetes and infrastructure-as-code experience.

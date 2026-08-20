@@ -1,0 +1,15 @@
+OWEN FITZGERALD
+Denver, CO | owen.f@example.com
+
+SUMMARY
+Full stack engineer moving toward backend and platform work.
+
+WORK HISTORY
+Software Engineer, Zocdoc                               Sep 2020 - Present
+Junior Software Engineer, Ibotta                        Jun 2018 - Aug 2020
+
+EDUCATION
+Bachelor of Arts in Economics, University of Colorado
+
+SKILLS
+JavaScript, TypeScript, Node.js, React, PostgreSQL, Docker

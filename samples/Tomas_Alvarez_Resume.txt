@@ -1,0 +1,20 @@
+TOMAS ALVAREZ
+Austin, TX | t.alvarez@example.com
+
+SUMMARY
+Backend engineer focused on payments infrastructure and ledger correctness.
+
+EXPERIENCE
+Senior Backend Engineer, Block                          Feb 2019 - Present
+- Rebuilt double-entry ledger reconciliation.
+Backend Engineer, Braintree                             Aug 2016 - Jan 2019
+Software Engineer, Rackspace                            Jun 2014 - Jul 2016
+
+EDUCATION
+Bachelor of Science in Computer Engineering, University of Texas at Austin
+
+SKILLS
+Java, Go, PostgreSQL, Kafka, gRPC, Docker, Terraform, AWS
+
+CERTIFICATIONS
+AWS Certified Developer - Associate

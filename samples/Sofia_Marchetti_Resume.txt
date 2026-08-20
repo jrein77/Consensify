@@ -1,0 +1,19 @@
+SOFIA MARCHETTI
+Boston, MA | s.marchetti@example.com
+
+PROFESSIONAL SUMMARY
+Backend engineer with 7+ years of experience in regulated financial systems.
+
+EXPERIENCE
+Senior Software Engineer, Fidelity Investments          Apr 2019 - Present
+- Led migration of trade settlement services.
+Software Engineer, State Street                         Sep 2016 - Mar 2019
+
+EDUCATION
+Bachelor of Science in Software Engineering, Northeastern University
+
+SKILLS
+Java, Spring, Python, Oracle, PostgreSQL, Kafka, Jenkins, AWS
+
+CERTIFICATIONS
+AWS Certified Solutions Architect - Associate
